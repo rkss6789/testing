@@ -1,5 +1,5 @@
-a=90
-b=93
+x=956
+y=9356
+print(x//y)
 print(x+y)
 print(x-y)
-print(x*y)
